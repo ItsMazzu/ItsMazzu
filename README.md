@@ -88,7 +88,7 @@ Aprendo principalmente por meio de projetos acadêmicos e estudos práticos, bus
   <a href="mailto:italo.itacom@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/italomazzucatto" target="_blank">
+  <a href="https://github.com/ItsMazzu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
