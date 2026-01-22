@@ -1,4 +1,4 @@
-# Olá, eu sou Ítalo Mazzucatto 👋
+# Olá, eu sou Italo Mazzucatto 👋
 
 <div align="center">
   <a href="https://git.io/typing-svg">
