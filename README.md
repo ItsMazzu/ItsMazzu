@@ -20,7 +20,7 @@ Aprendo principalmente por meio de projetos acadêmicos e estudos práticos, bus
 - 💻 Interesse em **desenvolvimento web e sistemas**
 - 🧠 Foco em **lógica de programação e organização de código**
 - 🤝 Experiência em **trabalho em equipe acadêmico**
-- 🎓 Previsão de conclusão: **2026**
+- 🎓 Previsão de conclusão: **2027**
 
 ---
 
