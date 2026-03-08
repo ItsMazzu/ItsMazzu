@@ -1,36 +1,40 @@
-# Olá, eu sou Italo Mazzucatto 👋
+# Hello, I'm Italo Mazzucatto 👋
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=500&lines=Estudante+de+TI;FATEC+Baixada+Santista;Sistemas+Para+Internet;Projetos+Academicos+e+Pessoais" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=500&lines=IT+Student;Cybersecurity+%26+Security+Operations;FATEC+Baixada+Santista;Academic+and+Personal+Projects" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <i>Construindo base técnica sólida através de projetos e aprendizado prático.</i>
+  <i>Building a solid technical foundation in cybersecurity, infrastructure, and automation through projects and hands-on learning.</i>
 </div>
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## 🧑‍💻 About Me
 
-Sou estudante de **Tecnologia da Informação** na **FATEC Baixada Santista**, com foco em fortalecer fundamentos de **desenvolvimento web**, **sistemas** e **banco de dados**.  
-Aprendo principalmente por meio de projetos acadêmicos e estudos práticos, buscando minha primeira oportunidade como **estagiário em TI**.
+I am an **Information Technology student** at **FATEC Baixada Santista**, currently focusing my studies on **Cybersecurity** and **Security Operations (SecOps)**.
 
-- 💻 Interesse em **desenvolvimento web e sistemas**
-- 🧠 Foco em **lógica de programação e organização de código**
-- 🤝 Experiência em **trabalho em equipe acadêmico**
-- 🎓 Previsão de conclusão: **2027**
+My main interests include **security monitoring, incident investigation, and IT infrastructure**, as well as learning **Python for automation and data analysis applied to cybersecurity**.
+
+I primarily learn through **academic projects, practical study, and independent learning**, while working toward my first opportunity as an **IT or Cybersecurity intern**.
+
+- 🔐 Interest in **Cybersecurity and Security Operations**
+- 🕵️ Focus on **security monitoring and incident investigation**
+- 🐍 Using **Python for automation and data processing**
+- 🤝 Experience working in **academic teams**
+- 🎓 Expected graduation: **2027**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### • Linguagens
+### • Languages
 <div style="display: inline_block">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ### • Web
@@ -38,48 +42,56 @@ Aprendo principalmente por meio de projetos acadêmicos e estudos práticos, bus
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### • Banco de Dados
+### • Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### • Ferramentas
+### • Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Featured Projects
 
-### 🎮 SAFE — Jogo Digital (Projeto de TCC - Curso Técnico)
-- Apoio técnico e organização do projeto
-- Colaboração em equipe multidisciplinar
-- Participação no fluxo de desenvolvimento
+### 🎮 SAFE — Digital Game (Technical Course Final Project)
 
-🔗 Projeto disponível no itch.io
+- Technical support and project organization
+- Collaboration within a multidisciplinary team
+- Participation in the development workflow
+- Editing visual assets and the game's opening cutscene
 
----
-
-### 🌐 Projeto Web Acadêmico
-- Desenvolvimento com HTML, CSS e JavaScript
-- Aplicação de lógica de programação
-- Integração conceitual com banco de dados
+🔗 Project available on itch.io
 
 ---
 
-## 🌱 Atualmente Estudando
-- Fortalecimento de lógica de programação  
-- Estruturação e organização de projetos  
-- Fundamentos de sistemas e web
-- Fundamentos de cybersecurity  
----
+### 🌐 Academic Web Project
 
-## 🌍 Idiomas
-🇧🇷 Português — Nativo  
-🇺🇸 Inglês — Avançado (B2–C1)
+- Development using HTML, CSS, and JavaScript
+- Application of programming logic
+- Structuring simple web applications
+- Conceptual integration with databases
 
 ---
 
-## 📫 Contato
+## 🌱 Currently Studying
+
+- **Cybersecurity fundamentals**
+- **Security Operations (SecOps)**
+- **Security monitoring and incident investigation**
+- **Python for automation and data analysis**
+- **Networking and infrastructure fundamentals**
+
+---
+
+## 🌍 Languages
+
+🇧🇷 Portuguese — Native  
+🇺🇸 English — Advanced (B2–C1)
+
+---
+
+## 📫 Contact
 
 <div align="center">
   <a href="https://linkedin.com/in/italo-mazzucatto" target="_blank">
@@ -91,6 +103,4 @@ Aprendo principalmente por meio de projetos acadêmicos e estudos práticos, bus
   <a href="https://github.com/ItsMazzu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-
 </div>
