@@ -33,6 +33,7 @@ I primarily learn through **academic projects, practical study, and independent 
 ### • Languages
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" />
   <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
@@ -81,6 +82,7 @@ I primarily learn through **academic projects, practical study, and independent 
 - **Security monitoring and incident investigation**
 - **Python for automation and data analysis**
 - **Networking and infrastructure fundamentals**
+- **Data treatment fundamentals using SQL**
 
 ---
 
