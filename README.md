@@ -128,25 +128,6 @@ Planned features:
 
 ---
 
-## 🚧 Future Project
-
-### 🧩 Mini SIEM
-
-Planned project to simulate a simplified **Security Information and Event Management (SIEM)** platform.
-
-It will integrate:
-
-- **Security Log Analyzer**
-- **Suspicious IP Detector**
-
-With additional features such as:
-
-- Event correlation
-- Threat intelligence enrichment
-- Security monitoring dashboard
-
----
-
 ## 🌱 Currently Studying
 
 - **Cybersecurity fundamentals**
