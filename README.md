@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=500&lines=IT+Student;Cybersecurity+%26+Security+Operations;FATEC+Baixada+Santista;Academic+and+Personal+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=500&lines=IT+Student;Cybersecurity+%26+Security+Operations;FATEC+Baixada+Santista;Security+Monitoring+%26+Log+Analysis" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,13 +16,13 @@
 
 I am an **Information Technology student** at **FATEC Baixada Santista**, currently focusing my studies on **Cybersecurity** and **Security Operations (SecOps)**.
 
-My main interests include **security monitoring, incident investigation, and IT infrastructure**, as well as learning **Python for automation and data analysis applied to cybersecurity**.
+My main interests include **security monitoring, log analysis, incident investigation, and IT infrastructure**, as well as learning **Python for automation and data analysis applied to cybersecurity**.
 
 I primarily learn through **academic projects, practical study, and independent learning**, while working toward my first opportunity as an **IT or Cybersecurity intern**.
 
 - 🔐 Interest in **Cybersecurity and Security Operations**
 - 🕵️ Focus on **security monitoring and incident investigation**
-- 🐍 Using **Python for automation and data processing**
+- 🐍 Using **Python for automation and log analysis**
 - 🤝 Experience working in **academic teams**
 - 🎓 Expected graduation: **2027**
 
@@ -52,10 +52,61 @@ I primarily learn through **academic projects, practical study, and independent 
 ### • Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
+
+### 🔐 Security Log Analyzer
+
+Python-based tool that simulates **Security Operations Center (SOC)** log analysis.
+
+Features:
+
+- Authentication log parsing
+- Detection of **brute force attacks**
+- Detection of **credential stuffing attempts**
+- Suspicious login pattern identification
+- CLI visualization using **Rich**
+
+🔗 https://github.com/ItsMazzu/security-log-analyzer
+
+---
+
+## 🚧 Planned Projects
+
+### 🌐 Suspicious IP Detector
+
+Planned tool to analyze logs and identify **potentially malicious IP addresses**.
+
+Planned features:
+
+- Detection of suspicious IP activity
+- IP **geolocation analysis**
+- Threat intelligence enrichment
+- Log filtering and analysis
+
+This project will later be integrated into the **Mini SIEM platform**.
+
+---
+
+### 🧩 Mini SIEM
+
+Future project to simulate a simplified **Security Information and Event Management (SIEM)** platform.
+
+It will integrate:
+
+- **Security Log Analyzer**
+- **Suspicious IP Detector**
+
+Planned features:
+
+- Event correlation
+- Threat intelligence enrichment
+- Security monitoring dashboard
+
+---
 
 ### 🎮 SAFE — Digital Game (Technical Course Final Project)
 
@@ -74,6 +125,25 @@ I primarily learn through **academic projects, practical study, and independent 
 - Application of programming logic
 - Structuring simple web applications
 - Conceptual integration with databases
+
+---
+
+## 🚧 Future Project
+
+### 🧩 Mini SIEM
+
+Planned project to simulate a simplified **Security Information and Event Management (SIEM)** platform.
+
+It will integrate:
+
+- **Security Log Analyzer**
+- **Suspicious IP Detector**
+
+With additional features such as:
+
+- Event correlation
+- Threat intelligence enrichment
+- Security monitoring dashboard
 
 ---
 
