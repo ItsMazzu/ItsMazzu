@@ -74,37 +74,37 @@ Features:
 
 ---
 
-## 🚧 Planned Projects
-
 ### 🌐 Suspicious IP Detector
 
-Planned tool to analyze logs and identify **potentially malicious IP addresses**.
+A tool that analyzes logs and identifies **potentially malicious IP addresses**.
 
-Planned features:
+Features:
 
 - Detection of suspicious IP activity
 - IP **geolocation analysis**
 - Threat intelligence enrichment
 - Log filtering and analysis
 
-This project will later be integrated into the **Mini SIEM platform**.
+This project is integrated into the **Mini SIEM platform**.
 
 ---
 
 ### 🧩 Mini SIEM
 
-Future project to simulate a simplified **Security Information and Event Management (SIEM)** platform.
+A project that simulates a simplified **Security Information and Event Management (SIEM)** platform.
 
-It will integrate:
+It integrates:
 
 - **Security Log Analyzer**
 - **Suspicious IP Detector**
 
-Planned features:
+Features:
 
 - Event correlation
 - Threat intelligence enrichment
 - Security monitoring dashboard
+
+🔗 https://github.com/ItsMazzu/mini-siem-sim
 
 ---
 
