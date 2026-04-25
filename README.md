@@ -24,7 +24,7 @@ I primarily learn through **academic projects, practical study, and independent 
 - 🕵️ Focus on **security monitoring and incident investigation**
 - 🐍 Using **Python for automation and log analysis**
 - 🤝 Experience working in **academic teams**
-- 🎓 Expected graduation: **2027**
+- 🎓 Expected graduation: **07/2027**
 
 ---
 
@@ -34,6 +34,7 @@ I primarily learn through **academic projects, practical study, and independent 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
