@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I am an **Information Technology student** at **FATEC Baixada Santista**, currently focusing my studies on **Cybersecurity** and **Security Operations (SecOps)**.
+I am an **Information Technology student** at **FATEC Baixada Santista**, currently focusing my studies on **Cybersecurity (mainly Blue Team and SOC workflows)**.
 
 My main interests include **security monitoring, log analysis, incident investigation, and IT infrastructure**, as well as learning **Python for automation and data analysis applied to cybersecurity**.
 
