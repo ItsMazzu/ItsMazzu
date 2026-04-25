@@ -20,7 +20,7 @@ My main interests include **security monitoring, log analysis, incident investig
 
 I primarily learn through **academic projects, practical study, and independent learning**, while working toward my first opportunity as an **IT or Cybersecurity intern**.
 
-- 🔐 Interest in **Cybersecurity and Security Operations**
+- 🔐 Interest in **Cybersecurity (Blue Team)**
 - 🕵️ Focus on **security monitoring and incident investigation**
 - 🐍 Using **Python for automation and log analysis**
 - 🤝 Experience working in **academic teams**
@@ -86,7 +86,7 @@ Features:
 - Threat intelligence enrichment
 - Log filtering and analysis
 
-This project is integrated into the **Mini SIEM platform**.
+This project is integrated into the **Mini SIEM Simulator**.
 
 ---
 
@@ -109,18 +109,20 @@ Features:
 
 ---
 
-### 🎮 SAFE — Digital Game (Technical Course Final Project)
+## 📂 Other Projects
+
+### 🎮 SAFE — Digital Game (Technical Course Final Project) - In Progress
 
 - Technical support and project organization
 - Collaboration within a multidisciplinary team
 - Participation in the development workflow
 - Editing visual assets and the game's opening cutscene
 
-🔗 Project available on itch.io
+🔗 Project will be available on itch.io (**PT-BR Only**)
 
 ---
 
-### 🌐 Academic Web Project
+### 🌐 Academic Web Projects
 
 - Development using HTML, CSS, and JavaScript
 - Application of programming logic
@@ -132,7 +134,6 @@ Features:
 ## 🌱 Currently Studying
 
 - **Cybersecurity fundamentals**
-- **Security Operations (SecOps)**
 - **Security monitoring and incident investigation**
 - **Python for automation and data analysis**
 - **Networking and infrastructure fundamentals**
