@@ -1,14 +1,16 @@
 # Hi, I'm Italo Mazzucatto 👋
 
-\<div align="center">
-&#x20; \<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-&#x20;   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=3B82F6&width=550&lines=Internet+Systems+Student;Software+Development+%26+Quality+Assurance;Data+Analysis+%26+Databases;Always+Learning+by+Building](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1500\&color=3B82F6\&width=550\&lines=Internet+Systems+Student;Software+Development+%26+Quality+Assurance;Data+Analysis+%26+Databases;Always+Learning+by+Building)" alt="Typing SVG" />
-&#x20; \</a>
-\</div>
 
-\<div align="center">
-&#x20; \<i>Exploring software development, software quality, and data through academic projects and hands-on learning.\</i>
-\</div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=3B82F6&width=550&lines=Internet+Systems+Student;Software+Development+%26+Quality+Assurance;Data+Analysis+%26+Databases;Always+Learning+by+Building" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <i>Exploring software development, software quality, and data through academic projects and hands-on learning.</i>
+</div>
+
 
 ---
 
