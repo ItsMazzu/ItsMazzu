@@ -173,11 +173,13 @@ Features:
 
 ## 📫 Contact
 
+
 <div align="center">
-&#x20; \<a href="[https://linkedin.com/in/italo-mazzucatto](https://linkedin.com/in/italo-mazzucatto)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />
-&#x20; \</a>
-&#x20; \<a href="mailto\:italo.itacom\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email" />
-&#x20; \</a>
+  <a href="https://linkedin.com/in/italo-mazzucatto">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:italo.itacom@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
+
